@@ -1,0 +1,17 @@
+C:\Users\tpavelka\Documents\GitHub\VerseChordizer\bin\Debug\net8.0\VerseChordizer.exe
+C:\Users\tpavelka\Documents\GitHub\VerseChordizer\bin\Debug\net8.0\VerseChordizer.deps.json
+C:\Users\tpavelka\Documents\GitHub\VerseChordizer\bin\Debug\net8.0\VerseChordizer.runtimeconfig.json
+C:\Users\tpavelka\Documents\GitHub\VerseChordizer\bin\Debug\net8.0\VerseChordizer.dll
+C:\Users\tpavelka\Documents\GitHub\VerseChordizer\bin\Debug\net8.0\VerseChordizer.pdb
+C:\Users\tpavelka\Documents\GitHub\VerseChordizer\bin\Debug\net8.0\NHunspell.dll
+C:\Users\tpavelka\Documents\GitHub\VerseChordizer\obj\Debug\net8.0\VerseChordizer.csproj.AssemblyReference.cache
+C:\Users\tpavelka\Documents\GitHub\VerseChordizer\obj\Debug\net8.0\VerseChordizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tpavelka\Documents\GitHub\VerseChordizer\obj\Debug\net8.0\VerseChordizer.AssemblyInfoInputs.cache
+C:\Users\tpavelka\Documents\GitHub\VerseChordizer\obj\Debug\net8.0\VerseChordizer.AssemblyInfo.cs
+C:\Users\tpavelka\Documents\GitHub\VerseChordizer\obj\Debug\net8.0\VerseChordizer.csproj.CoreCompileInputs.cache
+C:\Users\tpavelka\Documents\GitHub\VerseChordizer\obj\Debug\net8.0\VerseChordizer.csproj.CopyComplete
+C:\Users\tpavelka\Documents\GitHub\VerseChordizer\obj\Debug\net8.0\VerseChordizer.dll
+C:\Users\tpavelka\Documents\GitHub\VerseChordizer\obj\Debug\net8.0\refint\VerseChordizer.dll
+C:\Users\tpavelka\Documents\GitHub\VerseChordizer\obj\Debug\net8.0\VerseChordizer.pdb
+C:\Users\tpavelka\Documents\GitHub\VerseChordizer\obj\Debug\net8.0\VerseChordizer.genruntimeconfig.cache
+C:\Users\tpavelka\Documents\GitHub\VerseChordizer\obj\Debug\net8.0\ref\VerseChordizer.dll

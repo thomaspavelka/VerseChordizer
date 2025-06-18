@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "J67kB2FCTeyQN6pTOIdWJ0HrmpiEcDxQvvShVysjW4ZlbIC5Ol+SQrl63HR+zjDWSk9HRLh0Cuw9EcPB/MChJA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tpavelka\\Documents\\GitHub\\VerseChordizer\\VerseChordizer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tpavelka\\.nuget\\packages\\nhunspell\\1.2.5554.16953\\nhunspell.1.2.5554.16953.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'NHunspell 1.2.5554.16953' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
+      "libraryId": "NHunspell",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
